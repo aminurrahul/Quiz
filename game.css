@@ -1,0 +1,28 @@
+body{
+    color: #fff;
+}
+
+.choice-container{
+    display: flex;
+    margin-bottom: 1rem;
+    width:90%;
+    border-radius:4px;
+    background: skyblue;
+    font-size: 5rem;
+    min-width: 100rem;
+
+}
+
+.choice-container:hover{
+    cursor: pointer;
+}
+
+.choice-prefix{
+    padding: 2rem 2.5rem;
+    color: wheat;
+}
+
+.choice-text {
+    padding: 2rem;
+    width: 100%;
+}
